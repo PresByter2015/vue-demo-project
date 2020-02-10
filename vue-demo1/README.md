@@ -22,3 +22,10 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### html2canvas-proxy-nodejs
+- [html2canvas-proxy-nodejs](https://github.com/niklasvh/html2canvas-proxy-nodejs)
+### html2canvas
+- [html2canvas](http://html2canvas.hertzen.com/)
+### jsPDF
+- [jsPDF](http://raw.githack.com/MrRio/jsPDF/master/docs/index.html)
