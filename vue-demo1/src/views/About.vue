@@ -155,467 +155,467 @@ export default {
               name: "逻辑分析法"
             }
           ]
-        },
-        {
-          choiceTitle: "2017年A省邮电业务总量同比增速在以下哪个范围之内？",
-          choiceFileList: [
-            {
-              id_: "6a91237a0a894280badd9a11276181e1",
-              path_:
-                "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png"
-            }
-          ],
-          degree: "3",
-          topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
-          parsing: "",
-          underlineTextList: [],
-          parsingFile:
-            "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559626137700.png",
-          optionList: [
-            {
-              content: "低于25%",
-              answer: "0",
-              fileId: "",
-              order: 1,
-              path: ""
-            },
-            {
-              content: "25%-50%之间",
-              answer: "0",
-              fileId: "",
-              order: 2,
-              path: ""
-            },
-            {
-              content: "50%-75%之间",
-              answer: "1",
-              fileId: "",
-              order: 3,
-              path: ""
-            },
-            {
-              content: "超过75%",
-              answer: "0",
-              fileId: "",
-              order: 4,
-              path: ""
-            }
-          ],
-          noteName: "一错再错",
-          choiceId: "f2cf6268ed6245e181ca44d87bc9231f",
-          createTime: 1568280947490,
-          methodList: [
-            {
-              id: 120,
-              name: "估算法"
-            },
-            {
-              id: 269,
-              name: "偏向法"
-            },
-            {
-              id: 270,
-              name: "直接计算法"
-            }
-          ]
-        },
-        {
-          choiceTitle: "下列与扶贫有关的说法正确的是：",
-          choiceFileList: [],
-          degree: "1",
-          topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
-          parsing:
-            "B项，题支中其实缺少了“扶智”，这里命题人就在提醒这个选项不能选；我们都知道“大水漫灌”其实是有点浪费水的，而“精准滴灌”是对水资源的重复利用，我国的扶贫工作已经从“大水漫灌”转为“精准滴灌”了，所以不能再继续说他们要结合，排除。\nC项，脱贫是一个循序渐进的过程，发展高新技术产业需要一定的经济和物质基础，因此将高新技术产业作为脱贫的一项重要举措是有问题的，排除。\nD项，2035年离现在还有10多年，按照中国现在的经济发展形势和在脱贫工作上的力度，不可能要那么久，排除。\nA选项，习大大首次提出精准扶贫的概念，符合常理认知，因此本题选择A项。",
-          underlineTextList: ["正确"],
-          parsingFile: "",
-          optionList: [
-            {
-              content: "习近平总书记首次提出了“精准扶贫”的理念",
-              answer: "1",
-              fileId: "",
-              order: 1,
-              path: ""
-            },
-            {
-              content:
-                "扶贫工作坚持扶贫同扶志相结合，“大水漫灌”与“精准滴灌”相结合",
-              answer: "0",
-              fileId: "",
-              order: 2,
-              path: ""
-            },
-            {
-              content:
-                "全面发展高新技术产业是《“十三五”脱贫攻坚计划》提出的一项重要举措",
-              answer: "0",
-              fileId: "",
-              order: 3,
-              path: ""
-            },
-            {
-              content:
-                "脱贫目标是到2035年稳定实现现行标准下农村贫困人口“两不愁、三保障”",
-              answer: "0",
-              fileId: "",
-              order: 4,
-              path: ""
-            }
-          ],
-          noteName: "一错再错",
-          choiceId: "24fc7975c0ac44a6acb17957fbe4e6b2",
-          createTime: 1568280944072,
-          methodList: [
-            {
-              id: 34,
-              name: "逻辑分析法"
-            }
-          ]
-        },
-        {
-          choiceTitle: "2017年A省邮电业务总量同比增速在以下哪个范围之内？",
-          choiceFileList: [
-            {
-              id_: "6a91237a0a894280badd9a11276181e1",
-              path_:
-                "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png"
-            }
-          ],
-          degree: "3",
-          topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
-          parsing: "",
-          underlineTextList: [],
-          parsingFile:
-            "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559626137700.png",
-          optionList: [
-            {
-              content: "低于25%",
-              answer: "0",
-              fileId: "",
-              order: 1,
-              path: ""
-            },
-            {
-              content: "25%-50%之间",
-              answer: "0",
-              fileId: "",
-              order: 2,
-              path: ""
-            },
-            {
-              content: "50%-75%之间",
-              answer: "1",
-              fileId: "",
-              order: 3,
-              path: ""
-            },
-            {
-              content: "超过75%",
-              answer: "0",
-              fileId: "",
-              order: 4,
-              path: ""
-            }
-          ],
-          noteName: "一错再错",
-          choiceId: "f2cf6268ed6245e181ca44d87bc9231f",
-          createTime: 1568280947490,
-          methodList: [
-            {
-              id: 120,
-              name: "估算法"
-            },
-            {
-              id: 269,
-              name: "偏向法"
-            },
-            {
-              id: 270,
-              name: "直接计算法"
-            }
-          ]
-        },
-        {
-          choiceTitle: "下列与扶贫有关的说法正确的是：",
-          choiceFileList: [],
-          degree: "1",
-          topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
-          parsing:
-            "B项，题支中其实缺少了“扶智”，这里命题人就在提醒这个选项不能选；我们都知道“大水漫灌”其实是有点浪费水的，而“精准滴灌”是对水资源的重复利用，我国的扶贫工作已经从“大水漫灌”转为“精准滴灌”了，所以不能再继续说他们要结合，排除。\nC项，脱贫是一个循序渐进的过程，发展高新技术产业需要一定的经济和物质基础，因此将高新技术产业作为脱贫的一项重要举措是有问题的，排除。\nD项，2035年离现在还有10多年，按照中国现在的经济发展形势和在脱贫工作上的力度，不可能要那么久，排除。\nA选项，习大大首次提出精准扶贫的概念，符合常理认知，因此本题选择A项。",
-          underlineTextList: ["正确"],
-          parsingFile: "",
-          optionList: [
-            {
-              content: "习近平总书记首次提出了“精准扶贫”的理念",
-              answer: "1",
-              fileId: "",
-              order: 1,
-              path: ""
-            },
-            {
-              content:
-                "扶贫工作坚持扶贫同扶志相结合，“大水漫灌”与“精准滴灌”相结合",
-              answer: "0",
-              fileId: "",
-              order: 2,
-              path: ""
-            },
-            {
-              content:
-                "全面发展高新技术产业是《“十三五”脱贫攻坚计划》提出的一项重要举措",
-              answer: "0",
-              fileId: "",
-              order: 3,
-              path: ""
-            },
-            {
-              content:
-                "脱贫目标是到2035年稳定实现现行标准下农村贫困人口“两不愁、三保障”",
-              answer: "0",
-              fileId: "",
-              order: 4,
-              path: ""
-            }
-          ],
-          noteName: "一错再错",
-          choiceId: "24fc7975c0ac44a6acb17957fbe4e6b2",
-          createTime: 1568280944072,
-          methodList: [
-            {
-              id: 34,
-              name: "逻辑分析法"
-            }
-          ]
-        },
-        {
-          choiceTitle: "2017年A省邮电业务总量同比增速在以下哪个范围之内？",
-          choiceFileList: [
-            {
-              id_: "6a91237a0a894280badd9a11276181e1",
-              path_:
-                "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png"
-            }
-          ],
-          degree: "3",
-          topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
-          parsing: "",
-          underlineTextList: [],
-          parsingFile:
-            "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559626137700.png",
-          optionList: [
-            {
-              content: "低于25%",
-              answer: "0",
-              fileId: "",
-              order: 1,
-              path: ""
-            },
-            {
-              content: "25%-50%之间",
-              answer: "0",
-              fileId: "",
-              order: 2,
-              path: ""
-            },
-            {
-              content: "50%-75%之间",
-              answer: "1",
-              fileId: "",
-              order: 3,
-              path: ""
-            },
-            {
-              content: "超过75%",
-              answer: "0",
-              fileId: "",
-              order: 4,
-              path: ""
-            }
-          ],
-          noteName: "一错再错",
-          choiceId: "f2cf6268ed6245e181ca44d87bc9231f",
-          createTime: 1568280947490,
-          methodList: [
-            {
-              id: 120,
-              name: "估算法"
-            },
-            {
-              id: 269,
-              name: "偏向法"
-            },
-            {
-              id: 270,
-              name: "直接计算法"
-            }
-          ]
-        },
-        {
-          choiceTitle: "下列与扶贫有关的说法正确的是：",
-          choiceFileList: [],
-          degree: "1",
-          topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
-          parsing:
-            "B项，题支中其实缺少了“扶智”，这里命题人就在提醒这个选项不能选；我们都知道“大水漫灌”其实是有点浪费水的，而“精准滴灌”是对水资源的重复利用，我国的扶贫工作已经从“大水漫灌”转为“精准滴灌”了，所以不能再继续说他们要结合，排除。\nC项，脱贫是一个循序渐进的过程，发展高新技术产业需要一定的经济和物质基础，因此将高新技术产业作为脱贫的一项重要举措是有问题的，排除。\nD项，2035年离现在还有10多年，按照中国现在的经济发展形势和在脱贫工作上的力度，不可能要那么久，排除。\nA选项，习大大首次提出精准扶贫的概念，符合常理认知，因此本题选择A项。",
-          underlineTextList: ["正确"],
-          parsingFile: "",
-          optionList: [
-            {
-              content: "习近平总书记首次提出了“精准扶贫”的理念",
-              answer: "1",
-              fileId: "",
-              order: 1,
-              path: ""
-            },
-            {
-              content:
-                "扶贫工作坚持扶贫同扶志相结合，“大水漫灌”与“精准滴灌”相结合",
-              answer: "0",
-              fileId: "",
-              order: 2,
-              path: ""
-            },
-            {
-              content:
-                "全面发展高新技术产业是《“十三五”脱贫攻坚计划》提出的一项重要举措",
-              answer: "0",
-              fileId: "",
-              order: 3,
-              path: ""
-            },
-            {
-              content:
-                "脱贫目标是到2035年稳定实现现行标准下农村贫困人口“两不愁、三保障”",
-              answer: "0",
-              fileId: "",
-              order: 4,
-              path: ""
-            }
-          ],
-          noteName: "一错再错",
-          choiceId: "24fc7975c0ac44a6acb17957fbe4e6b2",
-          createTime: 1568280944072,
-          methodList: [
-            {
-              id: 34,
-              name: "逻辑分析法"
-            }
-          ]
-        },
-        {
-          choiceTitle: "2017年A省邮电业务总量同比增速在以下哪个范围之内？",
-          choiceFileList: [
-            {
-              id_: "6a91237a0a894280badd9a11276181e1",
-              path_:
-                "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png"
-            }
-          ],
-          degree: "3",
-          topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
-          parsing: "",
-          underlineTextList: [],
-          parsingFile:
-            "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559626137700.png",
-          optionList: [
-            {
-              content: "低于25%",
-              answer: "0",
-              fileId: "",
-              order: 1,
-              path: ""
-            },
-            {
-              content: "25%-50%之间",
-              answer: "0",
-              fileId: "",
-              order: 2,
-              path: ""
-            },
-            {
-              content: "50%-75%之间",
-              answer: "1",
-              fileId: "",
-              order: 3,
-              path: ""
-            },
-            {
-              content: "超过75%",
-              answer: "0",
-              fileId: "",
-              order: 4,
-              path: ""
-            }
-          ],
-          noteName: "一错再错",
-          choiceId: "f2cf6268ed6245e181ca44d87bc9231f",
-          createTime: 1568280947490,
-          methodList: [
-            {
-              id: 120,
-              name: "估算法"
-            },
-            {
-              id: 269,
-              name: "偏向法"
-            },
-            {
-              id: 270,
-              name: "直接计算法"
-            }
-          ]
-        },
-        {
-          choiceTitle: "下列与扶贫有关的说法正确的是：",
-          choiceFileList: [],
-          degree: "1",
-          topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
-          parsing:
-            "B项，题支中其实缺少了“扶智”，这里命题人就在提醒这个选项不能选；我们都知道“大水漫灌”其实是有点浪费水的，而“精准滴灌”是对水资源的重复利用，我国的扶贫工作已经从“大水漫灌”转为“精准滴灌”了，所以不能再继续说他们要结合，排除。\nC项，脱贫是一个循序渐进的过程，发展高新技术产业需要一定的经济和物质基础，因此将高新技术产业作为脱贫的一项重要举措是有问题的，排除。\nD项，2035年离现在还有10多年，按照中国现在的经济发展形势和在脱贫工作上的力度，不可能要那么久，排除。\nA选项，习大大首次提出精准扶贫的概念，符合常理认知，因此本题选择A项。",
-          underlineTextList: ["正确"],
-          parsingFile: "",
-          optionList: [
-            {
-              content: "习近平总书记首次提出了“精准扶贫”的理念",
-              answer: "1",
-              fileId: "",
-              order: 1,
-              path: ""
-            },
-            {
-              content:
-                "扶贫工作坚持扶贫同扶志相结合，“大水漫灌”与“精准滴灌”相结合",
-              answer: "0",
-              fileId: "",
-              order: 2,
-              path: ""
-            },
-            {
-              content:
-                "全面发展高新技术产业是《“十三五”脱贫攻坚计划》提出的一项重要举措",
-              answer: "0",
-              fileId: "",
-              order: 3,
-              path: ""
-            },
-            {
-              content:
-                "脱贫目标是到2035年稳定实现现行标准下农村贫困人口“两不愁、三保障”",
-              answer: "0",
-              fileId: "",
-              order: 4,
-              path: ""
-            }
-          ],
-          noteName: "一错再错",
-          choiceId: "24fc7975c0ac44a6acb17957fbe4e6b2",
-          createTime: 1568280944072,
-          methodList: [
-            {
-              id: 34,
-              name: "逻辑分析法"
-            }
-          ]
         }
+        // {
+        //   choiceTitle: "2017年A省邮电业务总量同比增速在以下哪个范围之内？",
+        //   choiceFileList: [
+        //     {
+        //       id_: "6a91237a0a894280badd9a11276181e1",
+        //       path_:
+        //         "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png"
+        //     }
+        //   ],
+        //   degree: "3",
+        //   topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
+        //   parsing: "",
+        //   underlineTextList: [],
+        //   parsingFile:
+        //     "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559626137700.png",
+        //   optionList: [
+        //     {
+        //       content: "低于25%",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 1,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "25%-50%之间",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 2,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "50%-75%之间",
+        //       answer: "1",
+        //       fileId: "",
+        //       order: 3,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "超过75%",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 4,
+        //       path: ""
+        //     }
+        //   ],
+        //   noteName: "一错再错",
+        //   choiceId: "f2cf6268ed6245e181ca44d87bc9231f",
+        //   createTime: 1568280947490,
+        //   methodList: [
+        //     {
+        //       id: 120,
+        //       name: "估算法"
+        //     },
+        //     {
+        //       id: 269,
+        //       name: "偏向法"
+        //     },
+        //     {
+        //       id: 270,
+        //       name: "直接计算法"
+        //     }
+        //   ]
+        // },
+        // {
+        //   choiceTitle: "下列与扶贫有关的说法正确的是：",
+        //   choiceFileList: [],
+        //   degree: "1",
+        //   topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
+        //   parsing:
+        //     "B项，题支中其实缺少了“扶智”，这里命题人就在提醒这个选项不能选；我们都知道“大水漫灌”其实是有点浪费水的，而“精准滴灌”是对水资源的重复利用，我国的扶贫工作已经从“大水漫灌”转为“精准滴灌”了，所以不能再继续说他们要结合，排除。\nC项，脱贫是一个循序渐进的过程，发展高新技术产业需要一定的经济和物质基础，因此将高新技术产业作为脱贫的一项重要举措是有问题的，排除。\nD项，2035年离现在还有10多年，按照中国现在的经济发展形势和在脱贫工作上的力度，不可能要那么久，排除。\nA选项，习大大首次提出精准扶贫的概念，符合常理认知，因此本题选择A项。",
+        //   underlineTextList: ["正确"],
+        //   parsingFile: "",
+        //   optionList: [
+        //     {
+        //       content: "习近平总书记首次提出了“精准扶贫”的理念",
+        //       answer: "1",
+        //       fileId: "",
+        //       order: 1,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "扶贫工作坚持扶贫同扶志相结合，“大水漫灌”与“精准滴灌”相结合",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 2,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "全面发展高新技术产业是《“十三五”脱贫攻坚计划》提出的一项重要举措",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 3,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "脱贫目标是到2035年稳定实现现行标准下农村贫困人口“两不愁、三保障”",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 4,
+        //       path: ""
+        //     }
+        //   ],
+        //   noteName: "一错再错",
+        //   choiceId: "24fc7975c0ac44a6acb17957fbe4e6b2",
+        //   createTime: 1568280944072,
+        //   methodList: [
+        //     {
+        //       id: 34,
+        //       name: "逻辑分析法"
+        //     }
+        //   ]
+        // },
+        // {
+        //   choiceTitle: "2017年A省邮电业务总量同比增速在以下哪个范围之内？",
+        //   choiceFileList: [
+        //     {
+        //       id_: "6a91237a0a894280badd9a11276181e1",
+        //       path_:
+        //         "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png"
+        //     }
+        //   ],
+        //   degree: "3",
+        //   topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
+        //   parsing: "",
+        //   underlineTextList: [],
+        //   parsingFile:
+        //     "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559626137700.png",
+        //   optionList: [
+        //     {
+        //       content: "低于25%",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 1,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "25%-50%之间",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 2,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "50%-75%之间",
+        //       answer: "1",
+        //       fileId: "",
+        //       order: 3,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "超过75%",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 4,
+        //       path: ""
+        //     }
+        //   ],
+        //   noteName: "一错再错",
+        //   choiceId: "f2cf6268ed6245e181ca44d87bc9231f",
+        //   createTime: 1568280947490,
+        //   methodList: [
+        //     {
+        //       id: 120,
+        //       name: "估算法"
+        //     },
+        //     {
+        //       id: 269,
+        //       name: "偏向法"
+        //     },
+        //     {
+        //       id: 270,
+        //       name: "直接计算法"
+        //     }
+        //   ]
+        // },
+        // {
+        //   choiceTitle: "下列与扶贫有关的说法正确的是：",
+        //   choiceFileList: [],
+        //   degree: "1",
+        //   topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
+        //   parsing:
+        //     "B项，题支中其实缺少了“扶智”，这里命题人就在提醒这个选项不能选；我们都知道“大水漫灌”其实是有点浪费水的，而“精准滴灌”是对水资源的重复利用，我国的扶贫工作已经从“大水漫灌”转为“精准滴灌”了，所以不能再继续说他们要结合，排除。\nC项，脱贫是一个循序渐进的过程，发展高新技术产业需要一定的经济和物质基础，因此将高新技术产业作为脱贫的一项重要举措是有问题的，排除。\nD项，2035年离现在还有10多年，按照中国现在的经济发展形势和在脱贫工作上的力度，不可能要那么久，排除。\nA选项，习大大首次提出精准扶贫的概念，符合常理认知，因此本题选择A项。",
+        //   underlineTextList: ["正确"],
+        //   parsingFile: "",
+        //   optionList: [
+        //     {
+        //       content: "习近平总书记首次提出了“精准扶贫”的理念",
+        //       answer: "1",
+        //       fileId: "",
+        //       order: 1,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "扶贫工作坚持扶贫同扶志相结合，“大水漫灌”与“精准滴灌”相结合",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 2,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "全面发展高新技术产业是《“十三五”脱贫攻坚计划》提出的一项重要举措",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 3,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "脱贫目标是到2035年稳定实现现行标准下农村贫困人口“两不愁、三保障”",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 4,
+        //       path: ""
+        //     }
+        //   ],
+        //   noteName: "一错再错",
+        //   choiceId: "24fc7975c0ac44a6acb17957fbe4e6b2",
+        //   createTime: 1568280944072,
+        //   methodList: [
+        //     {
+        //       id: 34,
+        //       name: "逻辑分析法"
+        //     }
+        //   ]
+        // },
+        // {
+        //   choiceTitle: "2017年A省邮电业务总量同比增速在以下哪个范围之内？",
+        //   choiceFileList: [
+        //     {
+        //       id_: "6a91237a0a894280badd9a11276181e1",
+        //       path_:
+        //         "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png"
+        //     }
+        //   ],
+        //   degree: "3",
+        //   topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
+        //   parsing: "",
+        //   underlineTextList: [],
+        //   parsingFile:
+        //     "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559626137700.png",
+        //   optionList: [
+        //     {
+        //       content: "低于25%",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 1,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "25%-50%之间",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 2,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "50%-75%之间",
+        //       answer: "1",
+        //       fileId: "",
+        //       order: 3,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "超过75%",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 4,
+        //       path: ""
+        //     }
+        //   ],
+        //   noteName: "一错再错",
+        //   choiceId: "f2cf6268ed6245e181ca44d87bc9231f",
+        //   createTime: 1568280947490,
+        //   methodList: [
+        //     {
+        //       id: 120,
+        //       name: "估算法"
+        //     },
+        //     {
+        //       id: 269,
+        //       name: "偏向法"
+        //     },
+        //     {
+        //       id: 270,
+        //       name: "直接计算法"
+        //     }
+        //   ]
+        // },
+        // {
+        //   choiceTitle: "下列与扶贫有关的说法正确的是：",
+        //   choiceFileList: [],
+        //   degree: "1",
+        //   topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
+        //   parsing:
+        //     "B项，题支中其实缺少了“扶智”，这里命题人就在提醒这个选项不能选；我们都知道“大水漫灌”其实是有点浪费水的，而“精准滴灌”是对水资源的重复利用，我国的扶贫工作已经从“大水漫灌”转为“精准滴灌”了，所以不能再继续说他们要结合，排除。\nC项，脱贫是一个循序渐进的过程，发展高新技术产业需要一定的经济和物质基础，因此将高新技术产业作为脱贫的一项重要举措是有问题的，排除。\nD项，2035年离现在还有10多年，按照中国现在的经济发展形势和在脱贫工作上的力度，不可能要那么久，排除。\nA选项，习大大首次提出精准扶贫的概念，符合常理认知，因此本题选择A项。",
+        //   underlineTextList: ["正确"],
+        //   parsingFile: "",
+        //   optionList: [
+        //     {
+        //       content: "习近平总书记首次提出了“精准扶贫”的理念",
+        //       answer: "1",
+        //       fileId: "",
+        //       order: 1,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "扶贫工作坚持扶贫同扶志相结合，“大水漫灌”与“精准滴灌”相结合",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 2,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "全面发展高新技术产业是《“十三五”脱贫攻坚计划》提出的一项重要举措",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 3,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "脱贫目标是到2035年稳定实现现行标准下农村贫困人口“两不愁、三保障”",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 4,
+        //       path: ""
+        //     }
+        //   ],
+        //   noteName: "一错再错",
+        //   choiceId: "24fc7975c0ac44a6acb17957fbe4e6b2",
+        //   createTime: 1568280944072,
+        //   methodList: [
+        //     {
+        //       id: 34,
+        //       name: "逻辑分析法"
+        //     }
+        //   ]
+        // },
+        // {
+        //   choiceTitle: "2017年A省邮电业务总量同比增速在以下哪个范围之内？",
+        //   choiceFileList: [
+        //     {
+        //       id_: "6a91237a0a894280badd9a11276181e1",
+        //       path_:
+        //         "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png"
+        //     }
+        //   ],
+        //   degree: "3",
+        //   topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
+        //   parsing: "",
+        //   underlineTextList: [],
+        //   parsingFile:
+        //     "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559626137700.png",
+        //   optionList: [
+        //     {
+        //       content: "低于25%",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 1,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "25%-50%之间",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 2,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "50%-75%之间",
+        //       answer: "1",
+        //       fileId: "",
+        //       order: 3,
+        //       path: ""
+        //     },
+        //     {
+        //       content: "超过75%",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 4,
+        //       path: ""
+        //     }
+        //   ],
+        //   noteName: "一错再错",
+        //   choiceId: "f2cf6268ed6245e181ca44d87bc9231f",
+        //   createTime: 1568280947490,
+        //   methodList: [
+        //     {
+        //       id: 120,
+        //       name: "估算法"
+        //     },
+        //     {
+        //       id: 269,
+        //       name: "偏向法"
+        //     },
+        //     {
+        //       id: 270,
+        //       name: "直接计算法"
+        //     }
+        //   ]
+        // },
+        // {
+        //   choiceTitle: "下列与扶贫有关的说法正确的是：",
+        //   choiceFileList: [],
+        //   degree: "1",
+        //   topicFrom: "2019年国家公务员录用考试《行测》真题（副省级）",
+        //   parsing:
+        //     "B项，题支中其实缺少了“扶智”，这里命题人就在提醒这个选项不能选；我们都知道“大水漫灌”其实是有点浪费水的，而“精准滴灌”是对水资源的重复利用，我国的扶贫工作已经从“大水漫灌”转为“精准滴灌”了，所以不能再继续说他们要结合，排除。\nC项，脱贫是一个循序渐进的过程，发展高新技术产业需要一定的经济和物质基础，因此将高新技术产业作为脱贫的一项重要举措是有问题的，排除。\nD项，2035年离现在还有10多年，按照中国现在的经济发展形势和在脱贫工作上的力度，不可能要那么久，排除。\nA选项，习大大首次提出精准扶贫的概念，符合常理认知，因此本题选择A项。",
+        //   underlineTextList: ["正确"],
+        //   parsingFile: "",
+        //   optionList: [
+        //     {
+        //       content: "习近平总书记首次提出了“精准扶贫”的理念",
+        //       answer: "1",
+        //       fileId: "",
+        //       order: 1,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "扶贫工作坚持扶贫同扶志相结合，“大水漫灌”与“精准滴灌”相结合",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 2,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "全面发展高新技术产业是《“十三五”脱贫攻坚计划》提出的一项重要举措",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 3,
+        //       path: ""
+        //     },
+        //     {
+        //       content:
+        //         "脱贫目标是到2035年稳定实现现行标准下农村贫困人口“两不愁、三保障”",
+        //       answer: "0",
+        //       fileId: "",
+        //       order: 4,
+        //       path: ""
+        //     }
+        //   ],
+        //   noteName: "一错再错",
+        //   choiceId: "24fc7975c0ac44a6acb17957fbe4e6b2",
+        //   createTime: 1568280944072,
+        //   methodList: [
+        //     {
+        //       id: 34,
+        //       name: "逻辑分析法"
+        //     }
+        //   ]
+        // }
       ]
     };
   },
@@ -666,11 +666,34 @@ export default {
       //     doc.save();
       //   }
       // });
+    },
+    //获取图片的Blob值
+    getImageBlob(url, cb) {
+      var xhr = new XMLHttpRequest();
+      xhr.open("get", url, true);
+      xhr.responseType = "blob";
+      xhr.onload = function() {
+        if (this.status == 200) {
+          console.log(this.response);
+
+          if (cb) cb(this.response);
+        }
+      };
+      xhr.send();
     }
   },
   created() {},
   activated() {},
-  mounted() {}
+  mounted() {
+    console.log("mounted");
+
+    this.getImageBlob(
+      "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png",
+      res => {
+        console.log(1111, res);
+      }
+    );
+  }
 };
 </script>
 <style lang="less" scoped></style>
