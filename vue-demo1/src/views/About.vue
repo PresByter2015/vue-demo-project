@@ -16,7 +16,15 @@
             </span>
           </h4>
           <template v-for="file in item.choiceFileList">
-            <img :src="file.path_" :key="file.id_" alt="" srcset="" />
+            <!-- <img :src="file.path_" :key="file.id_" alt="" srcset="" /> -->
+            <div
+              :style="{
+                backgroundImage: 'url(' + file.path_ + ')',
+                height: '80px',
+                width: '100%'
+              }"
+              :key="file.id_"
+            ></div>
           </template>
           <h3>选项</h3>
           <template v-for="opt in item.optionList">
@@ -685,15 +693,18 @@ export default {
   created() {},
   activated() {},
   mounted() {
-    console.log("mounted");
-
-    this.getImageBlob(
-      "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png",
-      res => {
-        console.log(1111, res);
-      }
-    );
+    // console.log("mounted");
+    // this.getImageBlob(
+    //   "http://lixing-develop.oss-cn-hangzhou.aliyuncs.com/large_file/1559184279541.png",
+    //   res => {
+    //     console.log(1111, res);
+    //   }
+    // );
   }
 };
 </script>
-<style lang="less" scoped></style>
+<style lang="less" scoped>
+div {
+  background-image: url();
+}
+</style>

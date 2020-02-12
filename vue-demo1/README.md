@@ -29,3 +29,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - [html2canvas](http://html2canvas.hertzen.com/)
 ### jsPDF
 - [jsPDF](http://raw.githack.com/MrRio/jsPDF/master/docs/index.html)
+
+### 浏览器实现pdf下载
+- 图片是用的阿里云的；因为跨域问题html2canvas拿不到，导致图片不渲染。
+- 使用了img和背景图都不行。
